@@ -1,16 +1,40 @@
-# React + Vite
+# 📋 ToDo приложение на React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Простое и красивое ToDo приложение с сохранением задач в localStorage.
 
-Currently, two official plugins are available:
+## ✨ Возможности
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Добавление новых задач
+- ✅ Отметка выполненных задач
+- ✅ Редактирование задач по двойному клику
+- ✅ Удаление задач
+- ✅ Очистка всех задач
+- ✅ Сохранение задач в localStorage
+- ✅ Адаптивный дизайн (от 280px)
+- ✅ Счетчик задач
 
-## React Compiler
+## 🚀 Демо
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+[Посмотреть демо](https://ilyarusin.github.io/todo-react)
 
-## Expanding the ESLint configuration
+## 🛠️ Технологии
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- CSS3 (Flexbox, медиа-запросы)
+- LocalStorage API
+
+## 📦 Установка и запуск
+
+```bash
+# Клонировать репозиторий
+git clone https://github.com/ВАШ_ЛОГИН/todo-react.git
+
+# Перейти в папку проекта
+cd todo-react
+
+# Установить зависимости
+npm install
+
+# Запустить в режиме разработки
+npm run dev
