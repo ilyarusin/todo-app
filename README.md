@@ -28,10 +28,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/ВАШ_ЛОГИН/todo-react.git
-
-# Перейти в папку проекта
-cd todo-react
+git clone https://github.com/ilyarusin/todo-app.git
 
 # Установить зависимости
 npm install
