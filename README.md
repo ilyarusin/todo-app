@@ -15,7 +15,7 @@
 
 ## 🚀 Демо
 
-[Посмотреть демо](https://ilyarusin.github.io/todo-react)
+[Посмотреть демо](https://ilyarusin.github.io/todo-app)
 
 ## 🛠️ Технологии
 
